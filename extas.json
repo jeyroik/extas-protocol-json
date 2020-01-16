@@ -1,0 +1,12 @@
+{
+  "name": "extas/protocol-json",
+  "protocols": [
+    {
+      "name": "json",
+      "title": "JSON",
+      "description": "JSON data",
+      "accept": ["application/json"],
+      "class": "extas\\components\\protocols\\ProtocolJson"
+    }
+  ]
+}
